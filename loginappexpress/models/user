@@ -1,0 +1,5 @@
+class user
+{
+var username;
+var password;
+}
